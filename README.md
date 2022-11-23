@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**soerenmuenster/soerenmuenster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Webdeveloper & UI/UX Designer working in Hamburg, Germany.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Orgadata AG**
+- 👨🏼‍🎨 Figma Expert
+- ⚙️ I use daily: `.tsx`, `.ts`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Frontend & UI/UX Community**
+- 🌱 Learning all about **Redwoodjs**
+- 💬 Ping me about **design**, **branding**, **frontend**, **development**, **design thinking**, **UI**, **UX**
+- 📫 Reach me: [info@soerenmuenster.de](mailto:info@soerenmuenster.de)
+- ⚡️ Fun fact: I'm a huge fan of working remotely all around the world
