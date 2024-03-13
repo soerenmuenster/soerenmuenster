@@ -4,7 +4,6 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Orgadata AG**
 - 👨🏼‍🎨 Figma Expert
 - ⚙️ I use daily: `.tsx`, `.ts`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Frontend & UI/UX Community**
